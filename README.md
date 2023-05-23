@@ -6,6 +6,7 @@ The Rewards Calculation System is a web application that calculates reward point
 ## Design Document
 
 The design document can be found here:
+https://github.com/limaothesuperman/charter-assessment/blob/main/Rewards%20Calculation%20System%20Design%20Document.pdf
 
 ## Prerequisites
 
