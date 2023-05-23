@@ -30,6 +30,15 @@ Follow these steps to get the Rewards Calculation System up and running:
 
    - Open the application.properties file located in the src/main/resources directory.
    - Update the database connection properties (url, username, password) with your MySQL database details.
+   - :bangbang:Notice: The data.sql file under resources file will seed the database with some testing data at the first time application starting.:bangbang:
+   - :bangbang:If you start the application one more time, please change the property in application.properties file. As state below:bangbang:
+   - First start use this command below to seed the database for testing
+   - ```shell 
+     spring.sql.init.mode=always
+   - After first start, can change to this command below for continually running
+   - ```shell 
+     spring.sql.init.mode=embedded
+     
 4. Build the application:
    ```shell
    mvn clean install
@@ -48,3 +57,4 @@ The Rewards Calculation System includes unit tests to ensure the correctness of 
    ```shell
    mvn test
    ```
+And a sample testing screenshot can be found here:
