@@ -49,6 +49,7 @@ Follow these steps to get the Rewards Calculation System up and running:
 
 ## API Documentation
 The API documentation for the Rewards Calculation System can be found here.
+https://github.com/limaothesuperman/charter-assessment/blob/main/API%20Documentation.pdf
 
 Please refer to the API documentation for detailed information on the available endpoints and their usage.
 
@@ -57,4 +58,4 @@ The Rewards Calculation System includes unit tests to ensure the correctness of 
    ```shell
    mvn test
    ```
-And a sample testing screenshot can be found here:
+And a sample testing screenshot can be found here:https://github.com/limaothesuperman/charter-assessment/blob/main/Screenshot%20for%20Testing.png
