@@ -45,12 +45,6 @@ Follow these steps to get the Rewards Calculation System up and running:
    mvn srping-boot:run
 6. The Rewards Calculation System will be accessible at http://localhost:8080.
 
-## API Documentation
-The API documentation for the Rewards Calculation System can be found here.
-https://github.com/limaothesuperman/charter-assessment/blob/main/API%20Documentation.pdf
-
-Please refer to the API documentation for detailed information on the available endpoints and their usage.
-
 ## Testing
 The Rewards Calculation System includes unit tests to ensure the correctness of the business logic and functionality. You can run the tests using the following command:
    ```shell
