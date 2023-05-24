@@ -3,10 +3,6 @@
 
 The Rewards Calculation System is a web application that calculates reward points for customers based on their transaction history. The system allows customers to view their monthly reward points and the total reward points earned over a given period.
 
-## Design Document
-
-The design document can be found here:
-https://github.com/limaothesuperman/charter-assessment/blob/main/System%20Design%20Document.pdf
 ## Prerequisites
 
 Before running the application, ensure that you have the following prerequisites installed:
@@ -57,4 +53,3 @@ The Rewards Calculation System includes unit tests to ensure the correctness of 
    ```shell
    mvn test
    ```
-And a sample testing screenshot can be found here:https://github.com/limaothesuperman/charter-assessment/blob/main/Screenshot%20for%20Testing.png
