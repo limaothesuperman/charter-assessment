@@ -5,6 +5,11 @@ target/
 !**/src/test/**/target/
 .DS_Store
 
+### MVN ###
+.mvn/wrapper/
+mvnw
+mvnw.cmd
+
 ### STS ###
 .apt_generated
 .classpath
