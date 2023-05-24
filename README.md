@@ -25,6 +25,9 @@ Follow these steps to get the Rewards Calculation System up and running:
 
    - Open the application.properties file located in the src/main/resources directory.
    - Update the database connection properties (url, username, password) with your MySQL database details.
+   - :bangbang:Please create a database called rewards_db before running this application, you can create one by executing the following SQL query.:bangbang:
+   - ```shell
+     CREATE DATABASE rewards_db;
    - :bangbang:Notice: The data.sql file under resources file will seed the database with some testing data at the first time application starting.:bangbang:
    - :bangbang:If you start the application one more time, please change the property in application.properties file. As state below:bangbang:
    - First start use this command below to seed the database for testing
